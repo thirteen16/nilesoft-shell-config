@@ -1,0 +1,8 @@
+*.log
+*.exe
+*.dll
+*.pdb
+*.tmp
+.DS_Store
+Thumbs.db
+__pycache__/
