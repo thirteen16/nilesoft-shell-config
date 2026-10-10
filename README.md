@@ -1,4 +1,4 @@
-# Windows Context Menu Config
+# Nilesoft Shell Config
 
 基于 [Nilesoft Shell](https://nilesoft.org/) 的 Windows 11 右键菜单配置，覆盖 34 类文件、文件夹、空白处和系统对象场景。
 
