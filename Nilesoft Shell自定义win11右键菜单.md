@@ -1,17 +1,17 @@
 ﻿# Nilesoft Shell自定义win11右键菜单
 
-当前配置保留已选项目，隐藏未选项目；34 类场景分别排序。已选管理员运行入口保留，IDE 统一为“通过 ×× 打开”。未列出的文件扩展名保留系统原菜单，并使用统一的默认关联 Open 入口；有 Open with 时将 Open 放在其上方，两项均设置图标。
+当前配置保留已选项目，隐藏未选项目；34 类场景分别排序。已选管理员运行入口保留，IDE 统一为“Open with ××”。未列出的文件扩展名由 imports/all-files.nss 按类别或通用规则接管（含无扩展名文件），并使用统一的默认关联 Open 入口；有 Open with 时将 Open 放在其上方，两项均设置图标。
 
 ## 必需文件
 
 | 文件 | 用途 |
 | --- | --- |
 | shell.exe、shell.dll | Nilesoft Shell 1.9.18 程序，架构须匹配新电脑 |
-| shell.nss、imports/theme.nss、imports/images.nss、imports/table-order.nss | 完整配置；保留目录结构 |
+| shell.nss、imports/theme.nss、imports/images.nss、imports/all-files.nss、imports/table-order.nss | 完整配置；保留目录结构 |
 | LICENSE、readme.txt | 原软件许可证与说明 |
-| 当前右键菜单_表格版.md、本文 | 目标菜单清单、恢复说明 |
+| win11电脑右键菜单_表格.md、本文 | 目标菜单清单、恢复说明 |
 
-“发送到桌面快捷方式”需要 `scripts/SendToNative.exe`，必须备份。`SendToNative.cs` 和 `Build-SendToNative.ps1` 保留用于维护及重新编译。
+“Send to Desktop (create shortcut)”需要 `scripts/SendToNative.exe`，必须备份。`SendToNative.cs` 和 `Build-SendToNative.ps1` 保留用于维护及重新编译。
 
 入口适用于文件／文件夹及多选，调用 Windows 目标 `Desktop (create shortcut)`。新电脑语言不同，可在本目录执行 `./scripts/SendToNative.exe --list ./发送目标.txt '实际文件路径'` 枚举，再将 `imports/table-order.nss` 中的目标名称改为实际值。
 
@@ -40,9 +40,9 @@ Set-Location -LiteralPath 'D:/win11/LookUp_ImproveMethods/Nilesoft Shell'
 | PyCharm | D:/PyCharm 2025.2.1.1/bin/pycharm64.exe |
 | Git Bash | D:/Git/git-bash.exe |
 
-直接编辑时，在 `imports/table-order.nss` 同时修改同一程序的所有 `cmd`、`image`、`io.file.exists` 路径。不存在的程序入口自动隐藏。CMD、PowerShell、记事本使用系统目录变量。
+直接编辑时，在 `imports/table-order.nss` 和 `imports/all-files.nss` 同时修改同一程序的所有 `cmd`、`image`、`io.file.exists` 路径。不存在的程序入口自动隐藏。CMD、PowerShell、记事本使用系统目录变量。
 
-后续直接编辑 `imports/table-order.nss`；当前菜单 Markdown 仅用于查看和规划，修改它不会自动生效。修改前自行备份配置。
+原有明确场景编辑 `imports/table-order.nss`，新增格式分类和兜底编辑 `imports/all-files.nss`；当前菜单 Markdown 仅用于查看和规划，修改它不会自动生效。修改前自行备份配置。
 
 原有 Windows、PowerToys、Bandizip、HashCheck、PotPlayer 等命令保留原实现，仍依赖软件注册和菜单名称。软件升级或系统语言改变后需要重新核对。仅存在于 Win11 新版菜单中的扩展，不保证能被 Nilesoft 显示；菜单表中的待确认项不代表已实现。
 
@@ -64,3 +64,14 @@ Set-ItemProperty -LiteralPath 'HKCU:\Software\Bandizip' -Name shell_PreviewWithT
 ```
 
 仅在该注册表项存在时执行。此设置不关闭解压／压缩操作。
+
+## 所有文件覆盖与本次回退
+
+`imports/all-files.nss` 必须在 `imports/table-order.nss` 之前导入。新增分类彼此互斥，并排除原有 21 种扩展名；通用兜底再排除所有分类，覆盖源码、PDF、未知及无扩展名文件。多选仍沿用原规则。
+
+本次修改前的入口配置和两份文档在 `config-backup-before-all-files`。如需回退，恢复其中的 `shell.nss` 和文档，再 Ctrl＋右键重载；新的 `all-files.nss` 将不再被导入。备份内不需要重复存放未修改的原规则文件。
+
+
+## English menu labels
+
+所有配置定义的菜单标题已统一为英文；中文原生菜单匹配条件保留，用于兼容软件的中文注册项。功能、图标、显示条件与分组顺序保持不变。此次修改前的配置和文档备份在 `config-backup-before-english`。
