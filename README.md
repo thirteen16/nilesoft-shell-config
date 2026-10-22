@@ -7,6 +7,7 @@
 - 按场景筛选菜单、调整顺序和分隔线。
 - Open 紧邻 Open with 上方，两项都有图标；文件通过系统默认关联打开。
 - CMD、PowerShell、Git Bash，以及命名统一的 VS Code、Visual Studio、IntelliJ IDEA、PyCharm 入口。
+- 所有带 CMD、PowerShell 的场景，在普通选项下面紧接对应的 Administrator 选项；管理员窗口进入当前文件夹，右键文件时进入文件所在目录。
 - 文件／文件夹的 Create shortcut 后添加“发送到桌面快捷方式”，支持多选。
 - 任务栏保留 Task Manager、Taskbar settings，并提供图标。
 - 提供关闭 Bandizip 普通／树形右键预览的方法。
@@ -32,10 +33,11 @@
 
 | 文件 | 用途 |
 | --- | --- |
-| [当前菜单清单](当前右键菜单_表格版.md) | 各场景的菜单项目、顺序和分隔线 |
-| [重装恢复说明](重装恢复说明.md) | 迁移、路径调整、Bandizip 预览设置、停用方式 |
+| [当前菜单清单](win11电脑右键菜单_表格.md) | 各场景的菜单项目、顺序和分隔线 |
+| [重装恢复说明](Nilesoft%20Shell自定义win11右键菜单.md) | 迁移、路径调整、Bandizip 预览设置、停用方式 |
 | `imports/table-order.nss` | 菜单筛选、排序及应用命令 |
 | `imports/theme.nss`、`imports/images.nss` | 外观与图标 |
+| `scripts/Open-AdminTerminal.ps1` | 管理员 CMD、PowerShell 的启动脚本；复制配置时一起保留 |
 | `scripts/SendToNative.cs` | 调用 Windows 原生 Send to 的辅助程序源码 |
 
 Markdown 菜单表用于查看和规划，编辑它不会自动改变菜单；实际规则在 NSS 文件中。

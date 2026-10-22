@@ -1,6 +1,8 @@
-﻿# Nilesoft Shell自定义win11右键菜单
+# Nilesoft Shell自定义win11右键菜单
 
 当前配置保留已选项目，隐藏未选项目；34 类场景分别排序。已选管理员运行入口保留，IDE 统一为“Open with ××”。未列出的文件扩展名由 imports/all-files.nss 按类别或通用规则接管（含无扩展名文件），并使用统一的默认关联 Open 入口；有 Open with 时将 Open 放在其上方，两项均设置图标。
+
+CMD 和 PowerShell 的普通选项下面都有对应的 Administrator 选项，点击后确认权限即可。需要保留 `scripts/Open-AdminTerminal.ps1`；文件右键进入所在目录，文件夹右键进入该文件夹。
 
 ## 必需文件
 

@@ -24,13 +24,15 @@
 | 13 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 14 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 15 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 16 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 17 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 22 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 16 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 17 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 18 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 19 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 20 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 24 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 02. 单个文件夹
 
@@ -54,12 +56,14 @@
 | 16 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 17 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 18 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 22 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 23 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 24 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 19 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 20 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 22 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 24 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 25 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 26 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 03. sample.md
 
@@ -80,13 +84,15 @@
 | 13 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 14 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 15 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 16 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 17 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 22 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 16 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 17 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 18 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 19 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 20 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 24 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 04. sample.ahk
 
@@ -108,13 +114,15 @@
 | 14 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 15 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 16 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 17 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 22 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 23 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 17 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 18 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 19 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 20 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 24 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 25 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 05. sample.ps1
 
@@ -136,13 +144,15 @@
 | 14 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 15 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 16 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 17 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 22 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 23 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 17 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 18 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 19 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 20 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 24 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 25 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 06. sample.bat
 
@@ -163,13 +173,15 @@
 | 13 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 14 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 15 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 16 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 17 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 22 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 16 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 17 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 18 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 19 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 20 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 24 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 07. sample.py
 
@@ -190,13 +202,15 @@
 | 13 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 14 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 15 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 16 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 17 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 22 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 16 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 17 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 18 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 19 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 20 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 24 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 08. sample.png
 
@@ -221,12 +235,14 @@
 | 17 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 18 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 19 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 22 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 23 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 24 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 25 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 20 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 21 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 23 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 24 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 25 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 26 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 27 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 待确认（配置保留匹配规则，系统或软件不一定提供）：Pin with PixPin。
 
@@ -251,12 +267,14 @@
 | 15 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 16 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 17 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 22 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 23 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 18 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 19 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 20 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 21 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 24 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 25 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 10. sample.exe
 
@@ -279,12 +297,14 @@
 | 15 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 16 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 17 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 22 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 23 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 18 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 19 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 20 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 21 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 24 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 25 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 11. sample.lnk
 
@@ -305,12 +325,14 @@
 | 13 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 14 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 15 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 16 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 17 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 16 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 17 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 18 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 19 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 20 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 12. 多选同类型文件
 
@@ -330,13 +352,15 @@
 | 12 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 13 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 14 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 15 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 16 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 17 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 15 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 16 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 17 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 18 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 19 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 20 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 13. 多选不同类型文件
 
@@ -357,13 +381,15 @@
 | 13 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 14 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 15 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 16 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 17 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 22 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 16 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 17 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 18 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 19 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 20 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 24 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 待确认（配置保留匹配规则，系统或软件不一定提供）：Pin with PixPin。
 
@@ -387,12 +413,14 @@
 | 14 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 15 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 16 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 17 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 22 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 17 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 18 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 19 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 20 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 24 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 15. 混合多选
 
@@ -412,13 +440,15 @@
 | 12 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 13 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 14 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 15 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 16 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 17 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 15 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 16 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 17 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 18 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 19 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 20 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 16. sample.docx
 
@@ -710,12 +740,14 @@
 | 8 | Undo | — | Windows／关联应用；撤销最近的文件操作 |
 | 9 | Properties | 下方 | Windows／关联应用；查看属性和权限等信息 |
 | 10 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 11 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 12 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 13 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 14 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 15 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 16 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 11 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 12 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 13 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 14 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 15 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 16 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 17 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 18 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 待确认（配置保留匹配规则，系统或软件不一定提供）：View、Group by、Rename、Undo。
 
@@ -737,12 +769,14 @@
 | 12 | Create shortcut | — | Windows／关联应用；创建快捷方式 |
 | 13 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 14 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 15 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 16 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 17 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 15 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 16 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 17 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 18 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 19 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 20 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 29. 磁盘 D:\
 
@@ -762,12 +796,14 @@
 | 12 | Create shortcut | — | Windows／关联应用；创建快捷方式 |
 | 13 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 14 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 15 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 16 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 17 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 15 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 16 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 17 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 18 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 19 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 20 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 30. 回收站图标（桌面命名空间）
 
@@ -805,12 +841,14 @@
 | 7 | Personalize | — | Windows／关联应用；打开个性化设置 |
 | 8 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 9 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 10 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 11 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 12 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 13 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 14 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 15 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 10 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 11 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 12 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 13 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 14 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 15 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 16 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 17 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 待确认（配置保留匹配规则，系统或软件不一定提供）：View、Rename with PowerRename。
 
@@ -860,13 +898,15 @@
 | 13 | Unlock with File Locksmith | — | PowerToys；查看并解除文件占用 |
 | 14 | Rename with PowerRename | 下方 | PowerToys；批量重命名 |
 | 15 | Open Command Prompt here | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 16 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 17 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 18 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 19 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 20 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 21 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
-| 22 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 16 | Open CMD here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 17 | Open PowerShell here | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 18 | Open PowerShell here (Administrator) | — | 以管理员身份在当前目录打开；需要确认权限 |
+| 19 | Open Git Bash here | 下方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 20 | Open with Notepad | 上方 | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 21 | Open with VS Code | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 22 | Open with Visual Studio | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 23 | Open with IntelliJ IDEA | — | 自定义入口；用对应程序打开选中对象／当前目录 |
+| 24 | Open with PyCharm | — | 自定义入口；用对应程序打开选中对象／当前目录 |
 
 ## 36. 未列出格式的分类扩展
 
